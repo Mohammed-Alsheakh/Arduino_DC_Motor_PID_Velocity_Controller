@@ -16,7 +16,3 @@ This project demonstrates closed-loop speed control of a DC motor using a PID co
 - DC Motor with Encoder
 - Power supply (12V)
 - Potentiometer for reference speed
-
-## Arduino Code
-
-- `PID_CONTROLLER_INTERRUPT.ino` – PID control using encoder feedback
