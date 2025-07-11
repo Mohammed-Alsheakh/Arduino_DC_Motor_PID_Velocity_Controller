@@ -3,13 +3,13 @@
 
 This project demonstrates closed-loop speed control of a DC motor using a PID controller on Arduino. The motor's speed is measured using either an encoder as feedback.
 
-# Features
+## Features
 
 - PID control of DC motor speed
 - sensor options: Incremental encoder
 - Real-time PWM adjustment based on error
 
-# Tools & Components
+## Tools & Components
 
 - Arduino Uno
 - L298N Motor Driver
@@ -17,6 +17,6 @@ This project demonstrates closed-loop speed control of a DC motor using a PID co
 - Power supply (12V)
 - Potentiometer for reference speed
 
-# Arduino Code
+## Arduino Code
 
 - `PID_CONTROLLER_INTERRUPT.ino` – PID control using encoder feedback
