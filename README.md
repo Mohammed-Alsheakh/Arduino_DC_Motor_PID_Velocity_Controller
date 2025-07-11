@@ -19,4 +19,4 @@ This project demonstrates closed-loop speed control of a DC motor using a PID co
 
 # Arduino Code
 
-- `pid_encoder.ino` – PID control using encoder feedback
+- `PID_CONTROLLER_INTERRUPT.ino` – PID control using encoder feedback
