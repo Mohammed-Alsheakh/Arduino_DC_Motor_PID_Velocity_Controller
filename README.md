@@ -1,4 +1,4 @@
-                                                               # Arduino DC Motor PID Control #
+# Arduino DC Motor PID Control
 
 
 This project demonstrates closed-loop speed control of a DC motor using a PID controller on Arduino. The motor's speed is measured using either an encoder as feedback.
